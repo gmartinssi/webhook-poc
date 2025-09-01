@@ -25,7 +25,7 @@ A complete full-stack application demonstrating webhook functionality for an Art
 
 1. **Navigate to the project directory:**
 ```bash
-cd /home/gmartinssi/webhook-poc
+cd ~/webhook-poc
 ```
 
 2. **Build the project:**
@@ -44,7 +44,7 @@ The backend will start on port 8080.
 
 1. **Navigate to the frontend directory:**
 ```bash
-cd /home/gmartinssi/webhook-poc/frontend
+cd ~/webhook-poc/frontend
 ```
 
 2. **Install dependencies:**
